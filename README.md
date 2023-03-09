@@ -5,7 +5,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vander-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Vander-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-plain.svg">
+  <img align="center" alt="Vander-csharp#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Vander-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vander-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vander-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
