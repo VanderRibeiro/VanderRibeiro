@@ -1,4 +1,13 @@
 ## Olá! esse é meu repositório!
+
+<div align="center">
+  <a href="https://github.com/VanderRibeiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderRibeiro&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+##
+
 <div align="center">
   <img align="center" alt="Vander-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Vander-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
