@@ -6,6 +6,24 @@ Sou desenvolvedor Backend apaixonado por tecnologia, inovação e por transforma
 🚀 Atualmente, estou desenvolvendo projetos voltados a automação, integração com APIs e sistemas web modernos.
 📚 Curioso por natureza — adoro aprender sobre arquitetura de software, performance e boas práticas.
 
-<div align="center"> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/> <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/> </div>
-<div align="center"> <a href="https://github.com/VanderRibeiro"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanderRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderRibeiro&layout=compact&langs_count=7&theme=dark"/> </a> </div>
-<div align="center"> <a href="mailto:vbruno383@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/bruno-rib/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<div align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="Python" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/VanderRibeiro"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderRibeiro&layout=compact&langs_count=7&theme=tokyonight"/> 
+  </a> 
+</div>
+
+<div align="center"> <a href="mailto:vander.bruno.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> 
+  <a href="https://www.linkedin.com/in/bruno-rib/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
