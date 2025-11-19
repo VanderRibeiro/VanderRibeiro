@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Bruno Ribeiro
 
-Sou desenvolvedor Backend apaixonado por tecnologia, inovação e por transformar ideias em soluções reais. Atualmente trabalho principalmente com Python e possuo experiencia em Java, HTML, CSS, JavaScript e C#, e estou sempre aprendendo novas ferramentas para aprimorar minhas criações.
+Sou desenvolvedor Backend apaixonado por tecnologia, inovação e por transformar ideias em soluções reais. Atualmente trabalho principalmente com Java/SpringBoot e possuo experiencia em Java, HTML, CSS, JavaScript e C#, e estou sempre aprendendo novas ferramentas para aprimorar minhas criações.
 
 💡 Meu foco é construir aplicações eficientes, seguras e escaláveis, com código limpo e fácil de manter.
 🚀 Atualmente, estou desenvolvendo projetos voltados a automação, integração com APIs e sistemas web modernos.
